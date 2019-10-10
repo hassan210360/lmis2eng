@@ -1478,8 +1478,8 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rExsZprabb .mbr-text {
-  color: #767676;
-  text-align: right;
+  color: #149dcc;
+  text-align: left;
 }
 .cid-rExsZprabb .card-wrapper {
   height: 100%;
@@ -1500,7 +1500,7 @@ section.lazy-placeholder:after {
 }
 .cid-rExsZprabb .card-title {
   color: #7f1933;
-  text-align: right;
+  text-align: left;
 }
 .cid-rExt0WIuGX {
   padding-top: 60px;
@@ -1514,7 +1514,7 @@ section.lazy-placeholder:after {
 }
 .cid-rExt0WIuGX .mbr-content-text {
   color: #767676;
-  text-align: right;
+  text-align: left;
 }
 .cid-rExt0WIuGX .card {
   word-wrap: break-word;
@@ -1567,7 +1567,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rExt0WIuGX H4 {
-  text-align: right;
+  text-align: left;
 }
 .cid-rExt1XWqwz {
   padding-top: 60px;
@@ -1649,7 +1649,8 @@ section.lazy-placeholder:after {
   border-radius: 0;
 }
 .cid-rCkqbyh08Q .mbr-text {
-  text-align: right;
+  text-align: left;
+  color: #149dcc;
 }
 .cid-rExt4DzYrn {
   padding-top: 90px;
@@ -1734,6 +1735,7 @@ section.lazy-placeholder:after {
 }
 .cid-rExt4DzYrn .card-title {
   text-align: center;
+  color: #0f7699;
 }
 .cid-rExt4DzYrn .mbr-text {
   text-align: center;
@@ -1806,7 +1808,7 @@ section.lazy-placeholder:after {
 .cid-rCfCEqDi3c {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background31.jpg");
+  background-image: url("../../../assets/images/background39.jpg");
 }
 .cid-rCfCEqDi3c .media-container-column {
   align-items: center;
@@ -2132,8 +2134,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rCktZQti8U {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rCktZQti8U .socicon-bg-facebook {
@@ -2174,73 +2176,6 @@ section.lazy-placeholder:after {
 @media (max-width: 767px) {
   .cid-rCktZQti8U .btn {
     font-size: 20px !important;
-  }
-}
-.cid-rExtloSYdX {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #2e2e2e;
-}
-@media (max-width: 767px) {
-  .cid-rExtloSYdX .content {
-    text-align: center;
-  }
-  .cid-rExtloSYdX .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rExtloSYdX .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-rExtloSYdX .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-rExtloSYdX .media-wrap img {
-  height: 6rem;
-}
-@media (max-width: 767px) {
-  .cid-rExtloSYdX .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-rExtloSYdX .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
-}
-.cid-rExtloSYdX .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-rExtloSYdX .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-rExtloSYdX .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-rExtloSYdX .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-rExtloSYdX .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-rExtloSYdX .footer-lower .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
   }
 }
 .cid-qTkAaeaxX5 {
@@ -2697,10 +2632,10 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rCm87yBSKT {
-  background-image: url("../../../assets/images/background42.jpg");
+  background-image: url("../../../assets/images/background410.jpg");
 }
 .cid-rCm8dbG8Si {
-  background-image: url("../../../assets/images/background15.jpg");
+  background-image: url("../../../assets/images/background113.jpg");
 }
 .cid-rCm8dbG8Si .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -5841,7 +5776,7 @@ section.lazy-placeholder:after {
 .cid-rCsHocVWU5 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/background42.jpg");
+  background-image: url("../../../assets/images/background410.jpg");
 }
 .cid-rCsHocVWU5 P {
   color: #767676;
@@ -6416,7 +6351,7 @@ section.lazy-placeholder:after {
 .cid-rCv4gQlglY {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background42.jpg");
+  background-image: url("../../../assets/images/background410.jpg");
 }
 .cid-rCv4gQlglY H2 {
   text-align: center;
@@ -7680,7 +7615,7 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rCy49dNvvy {
-  background-image: url("../../../assets/images/background15.jpg");
+  background-image: url("../../../assets/images/background113.jpg");
 }
 .cid-rCy49dNvvy .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -8927,7 +8862,7 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rCQgI1AEja {
-  background-image: url("../../../assets/images/background42.jpg");
+  background-image: url("../../../assets/images/background410.jpg");
 }
 .cid-rCQgI1AEja P {
   color: #767676;
@@ -13807,7 +13742,7 @@ section.lazy-placeholder:after {
 .cid-rDpy57lQcn {
   padding-top: 105px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/background57.jpg");
+  background-image: url("../../../assets/images/background515.jpg");
 }
 .cid-rDpy57lQcn .mbr-overlay {
   background-color: #879a9f;
@@ -14697,7 +14632,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rEv5zZRrgJ {
-  background-image: url("../../../assets/images/background15.jpg");
+  background-image: url("../../../assets/images/background113.jpg");
 }
 .cid-rEv5zZRrgJ .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -15217,7 +15152,7 @@ section.lazy-placeholder:after {
 .cid-rEv5AhQzap {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background31.jpg");
+  background-image: url("../../../assets/images/background39.jpg");
 }
 .cid-rEv5AhQzap .media-container-column {
   align-items: center;
