@@ -128,8 +128,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #ff7f9f !important;
+  border-color: #ff7f9f !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -137,14 +137,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #ff3266 !important;
+  border-color: #ff3266 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #ff3266 !important;
+  border-color: #ff3266 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -292,22 +292,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #cc0033;
-  color: #cc0033;
+  border-color: #ff1952;
+  color: #ff1952;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #ff3366;
-  border-color: #ff3366;
+  background-color: #ff7f9f;
+  border-color: #ff7f9f;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #ff7f9f !important;
+  border-color: #ff7f9f !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -427,7 +427,7 @@ body {
   color: #149dcc !important;
 }
 .text-secondary {
-  color: #ff3366 !important;
+  color: #ff7f9f !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -453,7 +453,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #cc0033 !important;
+  color: #ff1952 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -681,8 +681,8 @@ blockquote {
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
-  color: #ffffff !important;
-  background: #ff3366 !important;
+  color: #000000 !important;
+  background: #ff7f9f !important;
   box-shadow: none !important;
 }
 .lazy-bg {
@@ -1091,13 +1091,13 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rExsQkiqM5 {
-  background-image: url("../../../assets/images/preview-the-river-nile-in-cairo-804x452.jpg");
+  background-image: url("../../../assets/images/arabsites-2000x800.jpg");
 }
 .cid-rExsQkiqM5 .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
 .cid-rExsQkiqM5 .media-container-column {
-  background-color: #123456;
+  background-color: #0078a1;
 }
 @media (max-width: 767px) {
   .cid-rExsQkiqM5 .media-container-column {
@@ -1109,7 +1109,7 @@ section.lazy-placeholder:after {
 }
 .cid-rExsQkiqM5 H3 {
   text-align: center;
-  color: #879a9f;
+  color: #232323;
 }
 .cid-rExsQkiqM5 .mbr-text,
 .cid-rExsQkiqM5 .mbr-section-btn {
@@ -1626,7 +1626,7 @@ section.lazy-placeholder:after {
 .cid-rCfCEqDi3c {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background321.jpg");
+  background-image: url("../../../assets/images/background331.jpg");
 }
 .cid-rCfCEqDi3c .media-container-column {
   align-items: center;
@@ -2453,10 +2453,10 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rCm87yBSKT {
-  background-image: url("../../../assets/images/background422.jpg");
+  background-image: url("../../../assets/images/background432.jpg");
 }
 .cid-rCm8dbG8Si {
-  background-image: url("../../../assets/images/background125.jpg");
+  background-image: url("../../../assets/images/background135.jpg");
 }
 .cid-rCm8dbG8Si .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -5711,7 +5711,7 @@ section.lazy-placeholder:after {
 .cid-rCsHocVWU5 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/background422.jpg");
+  background-image: url("../../../assets/images/background432.jpg");
 }
 .cid-rCsHocVWU5 P {
   color: #767676;
@@ -6539,7 +6539,7 @@ section.lazy-placeholder:after {
 .cid-rCv4gQlglY {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background422.jpg");
+  background-image: url("../../../assets/images/background432.jpg");
 }
 .cid-rCv4gQlglY H2 {
   text-align: center;
@@ -7523,7 +7523,7 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rCy49dNvvy {
-  background-image: url("../../../assets/images/background125.jpg");
+  background-image: url("../../../assets/images/background135.jpg");
 }
 .cid-rCy49dNvvy .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -8738,7 +8738,7 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rCQgI1AEja {
-  background-image: url("../../../assets/images/background422.jpg");
+  background-image: url("../../../assets/images/background432.jpg");
 }
 .cid-rCQgI1AEja P {
   color: #767676;
