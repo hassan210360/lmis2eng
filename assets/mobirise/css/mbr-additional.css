@@ -1627,7 +1627,7 @@ section.lazy-placeholder:after {
 .cid-rCfCEqDi3c {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background321.jpg");
+  background-image: url("../../../assets/images/background331.jpg");
 }
 .cid-rCfCEqDi3c .media-container-column {
   align-items: center;
@@ -6173,7 +6173,7 @@ section.lazy-placeholder:after {
 .cid-rCsHocVWU5 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/background422.jpg");
+  background-image: url("../../../assets/images/background432.jpg");
 }
 .cid-rCsHocVWU5 P {
   color: #767676;
@@ -6977,7 +6977,7 @@ section.lazy-placeholder:after {
 .cid-rCv4gQlglY {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background422.jpg");
+  background-image: url("../../../assets/images/background432.jpg");
 }
 .cid-rCv4gQlglY H2 {
   text-align: center;
@@ -7961,7 +7961,7 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rCy49dNvvy {
-  background-image: url("../../../assets/images/background125.jpg");
+  background-image: url("../../../assets/images/background135.jpg");
 }
 .cid-rCy49dNvvy .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -9178,7 +9178,7 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rCQgI1AEja {
-  background-image: url("../../../assets/images/background422.jpg");
+  background-image: url("../../../assets/images/background432.jpg");
 }
 .cid-rCQgI1AEja P {
   color: #767676;
@@ -17271,7 +17271,7 @@ section.lazy-placeholder:after {
 .cid-rIoCLejvsX {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background321.jpg");
+  background-image: url("../../../assets/images/background331.jpg");
 }
 .cid-rIoCLejvsX .media-container-column {
   align-items: center;
@@ -18420,5 +18420,37 @@ nav.opened .hamburger span {
 }
 .nav-link:hover, .dropdown-item:hover {
   color: @itemsHoverColor !important;
+}
+}
+
+.cid-rJrQ51sh8u {
+@fullScreen: true;
+@paddingTop: 6;
+@paddingBottom: 6;
+@showArrow: false;
+@showTitle: true;
+@showSubTitle: true;
+@showText: true;
+@showButtons: true;
+@uname__12: "../../app/themes/mobirise4/components/header2/../_images/background4.jpg";
+@uname__13: true;
+@uname__14: #073b4c;
+@bg-value: "";
+@bg-type: "video";
+@bg-color-value: #073b4c;
+@bg-parallax: false;
+@overlay: true;
+@overlayColor: #232323;
+@overlayOpacity: 0.5;
+
+& when not (@fullScreen) {
+  padding-top: (@paddingTop * 15px);
+  padding-bottom: (@paddingBottom * 15px);
+}
+& when (@bg-type = 'image') {
+  background-image: url(../../../@bg-value);
+}
+& when (@bg-type = 'color') {
+  background-color: @bg-value;
 }
 }
