@@ -1,7 +1,7 @@
 $.fn.outerFind = function(selector) {
     return this.find(selector).addBack(selector);
 };
-function initTabs(target) {
+function updateId(target) {
     if ($(target).find('.nav-tabs').length !== 0) {
         $(target).outerFind('section[id^="tabs"]').each(function() {
             var componentID = $(this).attr('id');
@@ -28,12 +28,12 @@ function initTabs(target) {
 var isBuilder = $('html').hasClass('is-builder');
 if (isBuilder) {
     $(document).on('add.cards', function(e) {
-        initTabs(e.target);
+        updateId(e.target);
     });
 } else {
     if (typeof window.initTabsPlugin === 'undefined'){
         window.initTabsPlugin = true;
         console.log('init tabs by plugin');
-        initTabs(document.body);
+        updateId(document.body);
     }
 }
